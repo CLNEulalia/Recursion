@@ -2,6 +2,10 @@
 // You will have to figure out what parameters to include
 // All functions must use recursion
 
+function addUp(){
+  //This function returns the sum of all the numbers up to and including a given number.
+}
+
 function findMax(){
     // This function returns the largest number in a given array.
 }
