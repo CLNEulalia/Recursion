@@ -67,6 +67,6 @@ Recursion also lets us divide a larger problem into smaller subproblems. Merge s
 
 
 ### Sources/Contributors
-[Carlos Godoy] (https://git.generalassemb.ly/seir-826/recursion)
-[Ryan Fleharty] (https://git.generalassemb.ly/ryanfleharty/recursion-exercises/blob/master/lesson.md)
-[Ali Spittel] (https://github.com/aspittel/coding-cheat-sheets/blob/master/fundamentals/recursion.md)
+[Carlos Godoy](https://git.generalassemb.ly/seir-826/recursion)
+[Ryan Fleharty](https://git.generalassemb.ly/ryanfleharty/recursion-exercises/blob/master/lesson.md)
+[Ali Spittel](https://github.com/aspittel/coding-cheat-sheets/blob/master/fundamentals/recursion.md)
