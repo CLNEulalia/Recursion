@@ -62,11 +62,11 @@ Recursion also lets us divide a larger problem into smaller subproblems. Merge s
 - How recursion comes up in [job interviews](https://hackernoon.com/coding-interview-recursion-f0d60c9dbb60).
 - More thoughts on recursion in [job interviews](https://www.byte-by-byte.com/recursion/).
 - Sketching out a [recursive function](https://www.youtube.com/watch?v=bGC2fNALbNU).
-- Recursion for Coding Interviews: [The Ultimate Guide] (https://www.byte-by-byte.com/recursion/).
+- Recursion for Coding Interviews: [The Ultimate Guide](https://www.byte-by-byte.com/recursion/).
 - Just for fun: The [recursion subreddit](https://www.reddit.com/r/recursion).
 
 
 ### Sources/Contributors
-[Carlos Godoy](https://git.generalassemb.ly/seir-826/recursion)
-[Ryan Fleharty](https://git.generalassemb.ly/ryanfleharty/recursion-exercises/blob/master/lesson.md)
-[Ali Spittel](https://github.com/aspittel/coding-cheat-sheets/blob/master/fundamentals/recursion.md)
+- [Carlos Godoy](https://git.generalassemb.ly/seir-826/recursion)
+- [Ryan Fleharty](https://git.generalassemb.ly/ryanfleharty/recursion-exercises/blob/master/lesson.md)
+- [Ali Spittel](https://github.com/aspittel/coding-cheat-sheets/blob/master/fundamentals/recursion.md)
