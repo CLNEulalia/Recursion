@@ -21,9 +21,7 @@ By the end of this lesson, you will be able to:
 - Identify functions that use recursion and explain why it’s used.
 
 ## Duration
-1 hour total:
-- 0.5 hour myGA
-- 0.5 hour in class
+This assignment should take approximately 1-2 hours. Spend your time focusing on understanding the larger concepts and how they can be applied to code. 
 
 ## Prerequisites
 - Big O Notation
