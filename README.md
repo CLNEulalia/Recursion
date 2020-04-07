@@ -2,6 +2,13 @@
 
 # Recursion
 
+## Instructions 
+
+1. Follow along the steps in this README to progress through the myGA modules and work on the recursive functions exercise.
+2. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a new issue. 
+3. The issue template will ask that you answer three exit ticket questions on recursion before submitting your issue, to summarize your learning on this topic. 
+
+Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
 
 ## Overview
 We've seen that a function can call other functions to perform an action. When a function becomes too large to read or test easily, we split them into smaller functions that perform parts of the larger whole. 
