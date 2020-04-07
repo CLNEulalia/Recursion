@@ -6,7 +6,7 @@
 
 1. Follow along the steps in this README to progress through the myGA modules and work on the recursive functions exercise.
 2. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a new issue. 
-3. The issue template will ask that you answer three exit ticket questions on recursion before submitting your issue, to summarize your learning on this topic. 
+3. The issue template will ask that you answer three exit ticket questions on recursion before submitting your issue, to summarize your learning on this topic.
 
 Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
 
@@ -19,16 +19,13 @@ There are two parts to this lesson:
 1. [myGA module: Recursion](https://my.generalassemb.ly/activities/773)
 2. [In-Class Exercise: Writing Recursive Functions](exercises/recursion.js)
 
-> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it, as it contains tests that check your code. Store your progress in your .js file. This is not for a grade, but should be something that you revisit as you prepare for technical interviews. 
+> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it, as it contains tests that check your code. Store your progress in your .js file. This is not for a grade, but should be something that you revisit as you prepare for technical interviews.  Spend your time here focusing on understanding the larger concepts and how they can be applied to code.
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Define recursion.
 - Write the base case and recursive cases of a recursive function.
 - Identify functions that use recursion and explain why it’s used.
-
-## Duration
-This assignment should take approximately 1-2 hours. Spend your time focusing on understanding the larger concepts and how they can be applied to code. 
 
 ## Prerequisites
 - Big O Notation
