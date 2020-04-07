@@ -19,7 +19,7 @@ There are two parts to this lesson:
 1. [myGA module: Recursion](https://my.generalassemb.ly/activities/773)
 2. [In-Class Exercise: Writing Recursive Functions](exercises/recursion.js)
 
-> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it. Leave off where you get stuck and we'll review the solution in class.
+> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it, as it contains tests that check your code. Store your progress in your .js file. This is not for a grade, but should be something that you revisit as you prepare for technical interviews. 
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
