@@ -17,10 +17,10 @@ We've seen that a function can call other functions to perform an action. When a
 **Recursion is a function that calls itself.** A recursive function achieves a small part of the larger task, then passes the partially completed result to another call of itself.  Recursion is a useful alternative to iteration methods like loops. They are especially helpful for looking at all combinations or permutations of a given input.
 
 There are two parts to this lesson:
-1. [myGA module: Recursion](https://my.generalassemb.ly/activities/773)
-2. [In-Class Exercise: Writing Recursive Functions](exercises/recursion.js)
+1. [myGA module: Recursion](https://my.generalassemb.ly/activities/773) -- homework tonight
+2. [In-Class Exercise: Writing Recursive Functions](exercises/recursion.js) -- tomorrow's morning exercise.
 
-> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** Try out the exercise in CodePen and see how far you can get with it, as it contains tests that check your code. Store your progress in your .js file. This is not for a grade, but should be something that you revisit as you prepare for technical interviews.  Spend your time here focusing on understanding the larger concepts and how they can be applied to code.
+> **Note**: The myGA module contains a link to an exercise in CodePen. **The code in CodePen is the exact same as the code for the in-class exercises.** 
 
 ## Learning Objectives
 By the end of this lesson, you will be able to:
