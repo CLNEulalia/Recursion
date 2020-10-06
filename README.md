@@ -5,7 +5,7 @@
 ## Instructions 
 
 1. Fork this repo to your own account and download to your `sei/homework` folder.
-1. Follow along the steps in this README to progress through the myGA modules and work on the recursive functions exercise.
+1. Follow along the steps in this README to progress through the myGA modules.
 1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a [new issue](https://git.generalassemb.ly/sei-921/recursion/issues/new?assignees=&labels=&template=seir-homework-submission.md&title=YOUR+FULL+NAME). 
 1. The issue template will ask that you answer three exit ticket questions on recursion before submitting your issue, to summarize your learning on this topic.
 
