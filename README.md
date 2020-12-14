@@ -11,7 +11,7 @@
 
 **Note: This exercise includes a coding component, but for tonight, focus on understanding recursion conceptually. We will do the coding part of the assignment together tomorrow morning.**
 
-Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
+Unless otherwise noted, homework is due at 9:00 AM ET the next day. 
 
 ## Overview
 We've seen that a function can call other functions to perform an action. When a function becomes too large to read or test easily, we split them into smaller functions that perform parts of the larger whole. 
